@@ -1,0 +1,25 @@
+{
+  "name": "express-com-node",
+  "version": "1.0.0",
+  "description": "Mi primer servidor creado com node.js y express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andressa-leite/express-com-node.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Andressa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andressa-leite/express-com-node/issues"
+  },
+  "homepage": "https://github.com/andressa-leite/express-com-node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
